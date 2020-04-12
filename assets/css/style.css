@@ -113,7 +113,7 @@ header {
 }
 
 .logo {
-    background: url("/images/luigi.png");
+    background: url("Resume/assets/images/luigi.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
